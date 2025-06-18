@@ -32,7 +32,7 @@ const Hero = () => {
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
   <a
-    href="https://drive.google.com/file/d/10sVKoa-OxgM1LnUAn98Y2pci3NnwmVN8/view?usp=drive_link"
+    href="https://drive.google.com/file/d/1SvJfXyIYpYwFutNaMcl7QoiQLBkGMDCK/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
   >
