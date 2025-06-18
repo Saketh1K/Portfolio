@@ -9,7 +9,7 @@ const About = () => {
       degree: "B.Tech, Computer Science Engineering",
       institution: "VR Siddhartha Engineering College",
       period: "2022–2026",
-      grade: "CGPA: 8.49"
+      grade: "CGPA: 8.54"
     },
     {
       degree: "Intermediate",
